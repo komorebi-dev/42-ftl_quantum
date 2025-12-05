@@ -10,7 +10,7 @@ decorator==5.1.1
 dill==0.3.9
 exceptiongroup==1.2.2
 executing==2.1.0
-fonttools==4.55.0
+fonttools==4.61.0
 ibm-cloud-sdk-core==3.22.0
 ibm-platform-services==0.59.0
 idna==3.10
